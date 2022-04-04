@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+.idea
+
+resultado.db
+.aws_surface_mapping.yml

@@ -1,0 +1,21 @@
+aws_accounts:
+   879706924472:
+      access_key_id:
+      aws_secret_access_key:
+
+   170928468014:
+      access_key_id:
+      aws_secret_access_key:
+
+   562821017172:
+      access_key_id:
+      aws_secret_access_key:
+
+   928936051326:
+      access_key_id:
+      aws_secret_access_key:
+
+mail_list:
+   from_name: 'AWS Surface Monitoring'
+   from_email: 'seuemail@seudominio.com.br'
+   to_list: [{"name": "RESPOSTA A INCIDENTES", "email": "resposta.incidentes@seudominio"}]

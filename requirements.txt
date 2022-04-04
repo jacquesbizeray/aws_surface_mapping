@@ -1,0 +1,4 @@
+flask
+PyYAML
+boto3
+sqlite-web
