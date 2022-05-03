@@ -3,17 +3,17 @@ aws_accounts:
       access_key_id:
       aws_secret_access_key:
 
-   170928468014:
+   692782259151:
       access_key_id:
       aws_secret_access_key:
 
    562821017172:
-      access_key_id:
-      aws_secret_access_key:
+      access_key_id:LNVAWSOPS
+      aws_secret_access_key: 102-x0-d6-x1
 
    928936051326:
       access_key_id:
-      aws_secret_access_key:
+      aws_secret_access_key:692782259151
 
 mail_list:
    from_name: 'AWS Surface Monitoring'
